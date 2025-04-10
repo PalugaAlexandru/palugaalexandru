@@ -47,12 +47,14 @@ I'm a passionate Web Developer with hands-on experience in:
 
 ## 💡 JavaScript Practice Projects
 
-- [Age Calculator](https://palugaalexandru.github.io/age-calculator/) – Simple age calculator with dynamic interface
-- [Basic Calculator](https://palugaalexandru.github.io/basic-calculator/) – Perform basic math operations with real-time results
-- [Timer](https://palugaalexandru.github.io/timer/) – Start / Stop / Reset functionality
+- [Age Calculator](https://palugaalexandru.github.io/age-calculator-js/) – Simple age calculator with dynamic interface
+- [Basic Calculator](https://palugaalexandru.github.io/basic-calculator-js/) – Perform basic math operations with real-time results
+- [Timer](https://palugaalexandru.github.io/timer-js/) – Start / Stop / Reset functionality
 - [Weather App](https://palugaalexandru.github.io/weather-app/) – Real-time weather data via public API
 - [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/) – Light/dark theme switch with localStorage
-- [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors/) – Interactive and fun classic game
+- [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors-game/) – Interactive and fun classic game
+- [Loading Bar](https://palugaalexandru.github.io/loading-bar/) – Simulated loading animation
+
 
 > More projects coming soon! ✨
 
