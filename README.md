@@ -77,7 +77,7 @@ I'm a passionate Web Developer with hands-on experience in:
 
 ## 📝 My CV
 
-- [Download My CV Here](#)
+- [Download My CV Here](https://github.com/PalugaAlexandru/portofoliu-palugaalexandru/blob/main/Alexandru_Daniel_Paluga_CV_EN.pdf)
 
 ---
 
