@@ -37,10 +37,15 @@ I'm a passionate Web Developer with hands-on experience in:
 ## 🚀 WordPress Projects (Live)
 
 🔗 [Medical Events – Presentation Website](https://hcpevents.ro)
+
 🔗 [StartUp Agency – Presentation Website](https://startupagency.ro)
+
 🔗 [Medical Clinic – Presentation Website](https://awdhaestmed.com)
+
 🔗 [nZEBexpert – Online Shop](https://nzebexpert.ro)
+
 🔗 [MOBSOP – Online Shop](https://mobsop.ro)
+
 🔗 [Irevelato – Online Shop](https://irevelato.com)
 
 ---
