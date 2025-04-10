@@ -22,26 +22,6 @@ I'm a passionate Web Developer with hands-on experience in:
 
 ---
 
-## Contact
-
-<p>Feel free to reach out to me through any of the following channels:</p>
-
-<div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/alexandru-daniel-paluga/" target="_blank" 
-     style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-size: 16px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" />
-    LinkedIn
-  </a>
-
-  <!-- Email Button -->
-  <a href="mailto:alexandru.daniel@example.com" target="_blank" 
-     style="background-color: #D14836; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-size: 16px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Contacts_icon.png" alt="Email" width="20" />
-    Email
-  </a>
-</div>
-
 ## 🛠️ Tech Stack
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
