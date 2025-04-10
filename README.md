@@ -47,7 +47,7 @@ I'm a passionate Web Developer with hands-on experience in:
 
 ## 💡 JavaScript Practice Projects
 
-- [Age Calculator](https://palugaalexandru.github.io/age-calculator-js/) – Simple age calculator with dynamic interface
+🎯 [Age Calculator](https://palugaalexandru.github.io/age-calculator-js/) – Simple age calculator with dynamic interface
 - [Basic Calculator](https://palugaalexandru.github.io/basic-calculator-js/) – Perform basic math operations with real-time results
 - [Timer](https://palugaalexandru.github.io/timer-js/) – Start / Stop / Reset functionality
 - [Weather App](https://palugaalexandru.github.io/weather-app/) – Real-time weather data via public API
