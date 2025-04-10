@@ -67,6 +67,7 @@ I'm a passionate Web Developer with hands-on experience in:
 📊 [Loading Bar](https://palugaalexandru.github.io/loading-bar/) – Simulated loading animation
 
 
+
 > More projects coming soon! ✨
 
 ---
