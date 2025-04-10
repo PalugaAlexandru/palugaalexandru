@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:palugaalexandrudaniel1990@gmail.com"><img src="https://img.shields.io/badge/email-EmailMe-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/palugaalexandru"><img src="https://img.shields.io/badge/linkedin-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexandru-daniel-paluga/"><img src="https://img.shields.io/badge/linkedin-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/palugaalexandru"><img src="https://img.shields.io/github/followers/palugaalexandru?label=Follow&style=for-the-badge"/></a>
 </p>
 
