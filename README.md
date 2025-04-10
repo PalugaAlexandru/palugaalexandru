@@ -36,24 +36,24 @@ I'm a passionate Web Developer with hands-on experience in:
 
 ## 🚀 WordPress Projects (Live)
 
-- [Medical Events – Presentation Website](https://hcpevents.ro)
-- [StartUp Agency – Presentation Website](https://startupagency.ro)
-- [Medical Clinic – Presentation Website](https://awdhaestmed.com)
-- [nZEBexpert – Online Shop](https://nzebexpert.ro)
-- [MOBSOP – Online Shop](https://mobsop.ro)
-- [Irevelato – Online Shop](https://irevelato.com)
+🔗 [Medical Events – Presentation Website](https://hcpevents.ro)
+🔗 [StartUp Agency – Presentation Website](https://startupagency.ro)
+🔗 [Medical Clinic – Presentation Website](https://awdhaestmed.com)
+🔗 [nZEBexpert – Online Shop](https://nzebexpert.ro)
+🔗 [MOBSOP – Online Shop](https://mobsop.ro)
+🔗 [Irevelato – Online Shop](https://irevelato.com)
 
 ---
 
 ## 💡 JavaScript Practice Projects
 
 🎯 [Age Calculator](https://palugaalexandru.github.io/age-calculator-js/) – Simple age calculator with dynamic interface
-- [Basic Calculator](https://palugaalexandru.github.io/basic-calculator-js/) – Perform basic math operations with real-time results
-- [Timer](https://palugaalexandru.github.io/timer-js/) – Start / Stop / Reset functionality
-- [Weather App](https://palugaalexandru.github.io/weather-app/) – Real-time weather data via public API
-- [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/) – Light/dark theme switch with localStorage
-- [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors-game/) – Interactive and fun classic game
-- [Loading Bar](https://palugaalexandru.github.io/loading-bar/) – Simulated loading animation
+🔢 [Basic Calculator](https://palugaalexandru.github.io/basic-calculator-js/) – Perform basic math operations with real-time results
+⏰ [Timer](https://palugaalexandru.github.io/timer-js/) – Start / Stop / Reset functionality
+🌦️ [Weather App](https://palugaalexandru.github.io/weather-app/) – Real-time weather data via public API
+🌗 [Dark Mode Toggle](https://palugaalexandru.github.io/dark-mode-toggle/) – Light/dark theme switch with localStorage
+✊🖐✌ [Rock Paper Scissors Game](https://palugaalexandru.github.io/rock-paper-scissors-game/) – Interactive and fun classic game
+📊 [Loading Bar](https://palugaalexandru.github.io/loading-bar/) – Simulated loading animation
 
 
 > More projects coming soon! ✨
