@@ -84,6 +84,8 @@ I'm a passionate Web Developer with hands-on experience in:
 
 - 📧 Email: palugaalexandrudaniel1990@gmail.com  
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandru-daniel-paluga/)
+
 - 🌍 [Website](#) *(Coming soon)*
 
 ---
