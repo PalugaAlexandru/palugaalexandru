@@ -50,6 +50,7 @@ I'm a passionate Web Developer with hands-on experience in:
 
 <br>
 🔧 More projects coming soon! ✨
+
 ---
 
 ## 💡 JavaScript Practice Projects
