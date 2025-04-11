@@ -48,6 +48,8 @@ I'm a passionate Web Developer with hands-on experience in:
 
 🔗 [Irevelato – Online Shop](https://irevelato.com)
 
+<br>
+🔧 More projects coming soon! ✨
 ---
 
 ## 💡 JavaScript Practice Projects
