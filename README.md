@@ -50,6 +50,8 @@ I'm a passionate Web Developer with hands-on experience in:
 
 🔗 [Irevelato – Online Shop](https://irevelato.com)
 
+🔗 [90secondfatloss – Multiwebsite](https://90secondfatloss.co/)
+
 <br>
 🔧 More projects coming soon! ✨
 
