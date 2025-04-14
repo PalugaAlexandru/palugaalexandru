@@ -42,6 +42,8 @@ I'm a passionate Web Developer with hands-on experience in:
 
 🔗 [Medical Clinic – Presentation Website](https://awdhaestmed.com)
 
+🔗 [Luca Mirea Photography – Presentation Website](https://lucamirea.com/)
+
 🔗 [nZEBexpert – Online Shop](https://nzebexpert.ro)
 
 🔗 [MOBSOP – Online Shop](https://mobsop.ro)
