@@ -302,19 +302,6 @@ I'm particularly interested in collaborating with:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/palugaalexandru">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=palugaalexandru&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Alexandru Pălugă GitHub Stats" />
-  </a>
-  <a href="https://github.com/palugaalexandru?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palugaalexandru&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Alexandru Pălugă Top Languages" />
-  </a>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
