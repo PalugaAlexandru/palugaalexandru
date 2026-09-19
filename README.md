@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+
 <h1 align="center">Hi 👋, I'm Alexandru Pălugă</h1>
 
 <h3 align="center">
@@ -6,7 +7,7 @@ Full-Stack Web Developer | PHP • Laravel • WordPress • WooCommerce • Jav
 </h3>
 
 <p align="center">
-  Building production websites, custom WordPress solutions, e-commerce platforms and SaaS applications.
+Building production websites, custom WordPress solutions, e-commerce platforms and SaaS applications.
 </p>
 
 <p align="center">
@@ -25,9 +26,9 @@ Full-Stack Web Developer | PHP • Laravel • WordPress • WooCommerce • Jav
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** with hands-on experience building, extending and maintaining production web applications, WordPress platforms and e-commerce solutions.
+I'm a **Full-Stack Web Developer** focused on building, extending and maintaining production web applications, WordPress platforms and e-commerce solutions.
 
-My work includes:
+My experience includes:
 
 - 🚀 **20+ completed production websites and e-commerce projects**
 - 🔌 Custom **WordPress plugin development**
@@ -38,9 +39,9 @@ My work includes:
 - 🛠️ Maintenance, debugging and performance optimisation
 - 🧪 Professional **Software Testing / QA** experience
 
-Alongside my WordPress work, I'm developing a larger **Laravel SaaS platform** involving multi-company architecture, connected websites, role-aware access, event processing, logging and a modular notification system.
+Alongside my WordPress work, I'm developing a larger **Laravel SaaS platform**, working with multi-company architecture, connected websites, role-aware access, event processing, logging and modular notification systems.
 
-My QA background strongly influences the way I develop software, with an emphasis on reliability, debugging, edge cases and maintainable solutions.
+My professional background in Software Testing / QA also influences the way I approach development, with a strong focus on debugging, reliability, regression prevention, edge cases and maintainable solutions.
 
 ---
 
@@ -96,7 +97,7 @@ I've worked on **20+ completed production websites and e-commerce projects** acr
 - 🛒 [Lito](https://lito.ro/)
 - ✨ [GoodVibe](https://goodvibe.ro/)
 
-### 🏢 Corporate, Agency & Professional
+### 🏢 Corporate, Agency & Professional Websites
 
 - 🚀 [Visionary Agency](https://visionaryagency.ro/)
 - 💼 [StartUp Agency](https://startupagency.ro/)
@@ -104,7 +105,7 @@ I've worked on **20+ completed production websites and e-commerce projects** acr
 - 🏠 [Fibroroof](https://fibroroof.ro/)
 - 💻 [DropZero Digital Agency](https://agency.dropzerodigital.com/)
 
-### 🏥 Medical & Healthcare
+### 🏥 Medical & Healthcare Projects
 
 - 🎟️ [HCP Events](https://hcpevents.ro/)
 - 💊 [Pharma2Top](https://pharma2top.ro/)
@@ -116,7 +117,7 @@ I've worked on **20+ completed production websites and e-commerce projects** acr
 - 👤 [Anca Biriș](https://ancabiris.ro/)
 - 🌍 [Anca Biriș International](https://ancabiris.com/)
 
-> **20 completed production projects**, alongside ongoing work involving custom plugins, maintenance, integrations, automation, performance optimisation, debugging and technical support.
+> **20 completed production projects**, alongside ongoing work involving custom WordPress plugins, maintenance, integrations, automation, performance optimisation, debugging and technical support.
 
 ---
 
@@ -124,63 +125,87 @@ I've worked on **20+ completed production websites and e-commerce projects** acr
 
 My WordPress work goes beyond standard website implementation.
 
-I've developed and contributed to custom plugins and platform-specific functionality using **PHP, JavaScript, AJAX, REST APIs, MySQL, WordPress APIs, WooCommerce hooks, custom post types, nonces and custom database logic**.
+I've developed and contributed to custom plugins and platform-specific functionality using **PHP, JavaScript, AJAX, REST APIs, MySQL, WordPress APIs, WooCommerce hooks, custom post types, nonces, validation and custom database logic**.
 
 ### 🎟️ ADP Creator Events Hub
-Custom event and ticketing functionality with event workflows, ticket management and QR-based features.
 
+Custom event and ticketing functionality designed around WordPress, including event workflows, ticket management, QR-based features and custom WordPress integrations.
+
+**Stack:**  
 `PHP` `WordPress` `JavaScript` `AJAX` `MySQL` `REST API`
 
-### 📄 ADP eContracts
-Custom contract-management functionality with document generation and digital-signature workflows.
+---
 
+### 📄 ADP eContracts
+
+Custom contract-management functionality including document generation and digital-signature workflows.
+
+**Stack:**  
 `PHP` `WordPress` `JavaScript` `AJAX` `MySQL` `Dompdf`
 
-### 🔑 ADP License Hub
-Custom licensing and update infrastructure for WordPress plugins.
+---
 
+### 🔑 ADP License Hub
+
+Custom licensing and update infrastructure for managing WordPress plugin licences and application updates.
+
+**Stack:**  
 `PHP` `WordPress` `REST API` `MySQL` `JSON`
 
-### 🛡️ ADP Admin Shield
-Custom WordPress security and authentication functionality including TOTP-based mechanisms.
+---
 
+### 🛡️ ADP Admin Shield
+
+Custom WordPress security and authentication functionality, including TOTP-based authentication mechanisms.
+
+**Stack:**  
 `PHP` `WordPress` `JavaScript` `MySQL` `TOTP / 2FA`
 
+---
+
 ### 🖼️ ADP Creator Image Optimizer
+
 Custom image-processing and optimisation functionality with external storage workflows.
 
+**Stack:**  
 `PHP` `WordPress` `Imagick` `WebP` `Cloudflare R2`
 
-### 📚 Atelierul de Sine Library
-Custom functionality for structured and protected digital-content management.
+---
 
+### 📚 Atelierul de Sine Library
+
+Custom functionality for structured and protected digital-content management within WordPress.
+
+**Stack:**  
 `PHP` `WordPress` `JavaScript` `AJAX` `MySQL`
 
 ---
 
 ## ⚙️ Laravel SaaS Development
 
-I'm also developing a larger SaaS application from the ground up using **PHP and Laravel**.
+Alongside my WordPress work, I'm developing a larger SaaS application from the ground up using **PHP and Laravel**.
 
-The application uses a multi-company architecture with connected websites and backend systems for access control, event processing, logging and application notifications.
+The application is designed around a multi-company architecture with connected websites and includes backend systems for access control, event processing, logging and application notifications.
 
-### Key Engineering Areas
+### 🧩 Key Engineering Areas
 
 - Multi-company application architecture
 - Connected website management
 - Role-aware access and permissions
 - Owner / accountant access flows
-- Eloquent models and relationships
+- Laravel Eloquent models and relationships
 - MySQL relational data architecture
 - Event processing and logging
 - Modular notification architecture
 - DTO-based notification data
 - Notification formatting and action resolution
 - Notification registry and processing engine
-- Grouping and deduplication
-- State-aware notification processing
+- Grouping and deduplication strategies
+- Time-window and incident-based aggregation
+- Read / unread and state-aware processing
+- Contextual notification actions
 - Diagnostic and debugging functionality
-- Blade-based interfaces
+- Blade-based application interfaces
 - REST / JSON communication
 - Git-based development workflows
 - Linux / SSH development and debugging
@@ -194,13 +219,14 @@ The application uses a multi-company architecture with connected websites and ba
 
 My production work doesn't stop when a website is launched.
 
-I also work with existing WordPress and WooCommerce platforms on:
+I also work on existing WordPress and WooCommerce platforms, including:
 
-- Ongoing maintenance and production support
+- Ongoing website maintenance
+- Production troubleshooting
 - Bug investigation and debugging
 - WordPress and WooCommerce updates
 - Custom functionality development
-- Plugin customisation
+- Existing plugin customisation
 - REST API integrations
 - AJAX-based functionality
 - Custom automation
@@ -208,35 +234,49 @@ I also work with existing WordPress and WooCommerce platforms on:
 - Performance improvements
 - Image optimisation
 - Security-related improvements
-- Extending existing production platforms
+- Production support
+- Extending existing client platforms
 
-Working with existing production systems has given me practical experience solving problems **without disrupting existing functionality or business workflows**.
+Working with existing production systems has given me practical experience solving problems while **preserving existing functionality and business workflows**.
 
 ---
 
-## 🧪 Software Testing / QA Background
+## 🧪 Development + Software Testing
 
 I also have several years of professional experience in **Software Testing / QA**.
 
-This complements my development work through:
+This background complements my development work through:
 
-`Regression Testing` · `Functional Testing` · `API Testing` · `Debugging` · `Issue Reproduction` · `Edge Cases` · `Cross-Browser Validation` · `UI/UX Testing`
+- Systematic debugging
+- Regression testing
+- Functional testing
+- API testing
+- Reproduction and investigation of issues
+- Edge-case identification
+- Cross-browser validation
+- UI / UX issue identification
+- Production validation
+- Collaboration with development teams
 
 I treat testing as part of the development process, not something that happens only after implementation.
 
 ---
 
-## 🎯 Currently Focused On
+## 📚 Continuous Learning
+
+I actively continue developing my knowledge in:
 
 - Advanced PHP & Laravel
 - Laravel application architecture
 - WordPress & WooCommerce engineering
 - Custom plugin development
 - REST API integrations
+- JavaScript & React
 - SaaS architecture
 - Database design
 - Performance optimisation
-- React & modern frontend development
+- Application security
+- Modern frontend development
 
 ---
 
@@ -246,7 +286,14 @@ I'm interested in opportunities involving:
 
 **Full-Stack Development · PHP · Laravel · WordPress · WooCommerce · Custom Plugin Development · API Integrations · SaaS Development**
 
-I'm particularly interested in collaborating with **development teams, digital agencies, WordPress/WooCommerce agencies, SaaS companies and international product teams**.
+I'm particularly interested in collaborating with:
+
+- Development teams
+- Digital & web agencies
+- WordPress / WooCommerce agencies
+- SaaS companies
+- Product teams
+- International remote teams
 
 🌍 Based in **Romania**  
 💻 Open to **remote opportunities and international collaboration**
@@ -274,17 +321,14 @@ I'm particularly interested in collaborating with **development teams, digital a
   <a href="https://www.linkedin.com/in/alexandru-daniel-paluga/">
     <img src="https://img.shields.io/badge/LinkedIn-Alexandru_Pălugă-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/palugaalexandru">
+    <img src="https://img.shields.io/badge/GitHub-palugaalexandru-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 📧 **Email:** palugaalexandrudaniel1990@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/alexandru-daniel-paluga/  
 💻 **GitHub:** https://github.com/palugaalexandru
-
----
-
-## 📄 CV
-
-📥 [View / Download My CV](https://github.com/PalugaAlexandru/portofoliu-palugaalexandru/blob/main/Alexandru_Daniel_Paluga_CV_EN.pdf)
 
 ---
 
