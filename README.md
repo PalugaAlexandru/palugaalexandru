@@ -12,13 +12,13 @@ Building production websites, custom WordPress solutions, e-commerce platforms a
 
 <p align="center">
   <a href="mailto:palugaalexandrudaniel1990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alexandru-daniel-paluga/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/palugaalexandru">
-    <img src="https://img.shields.io/github/followers/palugaalexandru?label=Follow&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/palugaalexandru?label=Follow&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
 
@@ -26,7 +26,9 @@ Building production websites, custom WordPress solutions, e-commerce platforms a
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** focused on building, extending and maintaining production web applications, WordPress platforms and e-commerce solutions.
+I'm a **Full-Stack Web Developer** specializing in **PHP, Laravel, WordPress and WooCommerce**, with experience delivering **20+ production websites and e-commerce projects**.
+
+I build custom plugins, integrations, automations and scalable web solutions, combining hands-on development with a strong **Software Testing / QA** background.
 
 My experience includes:
 
@@ -41,7 +43,7 @@ My experience includes:
 
 Alongside my WordPress work, I'm developing a larger **Laravel SaaS platform**, working with multi-company architecture, connected websites, role-aware access, event processing, logging and modular notification systems.
 
-My professional background in Software Testing / QA also influences the way I approach development, with a strong focus on debugging, reliability, regression prevention, edge cases and maintainable solutions.
+My QA background influences the way I approach development, with a strong focus on debugging, reliability, regression prevention, edge cases and maintainable solutions.
 
 ---
 
@@ -300,14 +302,15 @@ I'm particularly interested in collaborating with:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palugaalexandru&show_icons=true&theme=radical" alt="Alexandru's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palugaalexandru&layout=compact&theme=radical" alt="Most Used Languages" />
+  <a href="https://github.com/palugaalexandru">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=palugaalexandru&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Alexandru Pălugă GitHub Stats" />
+  </a>
+  <a href="https://github.com/palugaalexandru?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palugaalexandru&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Alexandru Pălugă Top Languages" />
+  </a>
 </p>
 
 ---
@@ -316,19 +319,19 @@ I'm particularly interested in collaborating with:
 
 <p align="center">
   <a href="mailto:palugaalexandrudaniel1990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alexandru-daniel-paluga/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexandru_Pălugă-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandru_Pălugă-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/palugaalexandru">
-    <img src="https://img.shields.io/badge/GitHub-palugaalexandru-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-palugaalexandru-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-📧 **Email:** palugaalexandrudaniel1990@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/alexandru-daniel-paluga/  
-💻 **GitHub:** https://github.com/palugaalexandru
+<p align="center">
+  📧 <b>palugaalexandrudaniel1990@gmail.com</b>
+</p>
 
 ---
 
